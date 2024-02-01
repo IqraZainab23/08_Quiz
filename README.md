@@ -1,7 +1,7 @@
 # Quiz Project
 
 ## Overview
-The Quiz Project is implemented in Typescript and designed to ask random questions. 
+This repository contains the source code and associated files for the Quiz project. The project is a text-based interactive Quiz implemented in Typescript
 
 ## Usage
 Run the Quiz:
@@ -9,7 +9,7 @@ Run the Quiz:
 npx 08_quiz_project
 
 ```
-Follow the prompt to perform Quiz with style!
+Follow the prompt to perform the Quiz with style!
 
 ## Dependencies
 `Inquirer`: Provides the interactive prompt interface.
